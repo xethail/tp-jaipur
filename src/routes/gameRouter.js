@@ -1,5 +1,5 @@
 import express from "express"
-import * as gameService from "../services/gameServices"
+import * as gameService from "../services/gameService"
 
 const router = express.Router()
 

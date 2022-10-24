@@ -1,4 +1,4 @@
-import * as gameServices from "./gameServices"
+import * as gameService from "./gameService"
 
 describe("Game service", () => {
   test("should init a deck", () => {
